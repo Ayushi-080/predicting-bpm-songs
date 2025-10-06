@@ -4,7 +4,7 @@
 
 This project is my take on the **Kaggle Playground Series – Season 5, Episode 9**, where the challenge was to **predict the Beats Per Minute (BPM)** of songs based on their audio features.
 I approached it as a complete **end-to-end machine learning pipeline**, transforming raw tabular data into meaningful predictions — almost like turning data into music.  
-From **EDA and feature engineering** to **model tuning and evaluation**, every step was a note in this data symphony.
+From **EDA and feature engineering** to **model tuning and evaluation**, every step was a performed carefully.
 
 ---
 
